@@ -1,0 +1,36 @@
+{"ts":"2025-05-05T14:45:48.822Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-05T14:45:48.823Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-05T14:45:48.824Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-05T14:45:49.537Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-05T14:45:49.800Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-05T14:45:49.800Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-05T14:45:49.800Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-05T14:45:49.800Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-05T14:45:49.800Z","pid":"36256","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-05T15:54:16.082Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-05T15:54:16.083Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-05T15:54:16.083Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-05T15:54:16.815Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-05T15:54:17.084Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-05T15:54:17.084Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-05T15:54:17.084Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-05T15:54:17.084Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-05T15:54:17.084Z","pid":"37931","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-05T19:14:29.598Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-05T19:14:29.599Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-05T19:14:29.599Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-05T19:14:30.304Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-05T19:14:30.572Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-05T19:14:30.572Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-05T19:14:30.572Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-05T19:14:30.572Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-05T19:14:30.572Z","pid":"41990","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-05T20:26:58.892Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-05T20:26:58.893Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-05T20:26:58.894Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-05T20:26:59.599Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-05T20:26:59.861Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-05T20:26:59.862Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-05T20:26:59.862Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-05T20:26:59.862Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-05T20:26:59.862Z","pid":"43398","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}

@@ -1,0 +1,28 @@
+{
+  "name": "my-at2-wdc",
+  "version": "1.0.0",
+  "tableau-version": {
+    "min": "2024.1"
+  },
+  "vendor": {
+    "name": "Airtable Labs",
+    "support-link": "https://vendor-name.com",
+    "email": "support@vendor-name.com"
+  },
+  "permission": {
+    "api": {
+      "https://api.airtable.com/": [
+        "GET",
+        "POST",
+        "HEAD"
+      ]
+    }
+  },
+  "auth": {
+    "type": "none"
+  },
+  "window": {
+    "height": 800,
+    "width": 600
+  }
+}

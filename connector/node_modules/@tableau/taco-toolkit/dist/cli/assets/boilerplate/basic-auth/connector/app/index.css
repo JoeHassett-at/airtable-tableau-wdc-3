@@ -1,0 +1,7 @@
+.box {
+  width: 20rem;
+}
+
+.box .btn {
+  min-width: 10rem;
+}

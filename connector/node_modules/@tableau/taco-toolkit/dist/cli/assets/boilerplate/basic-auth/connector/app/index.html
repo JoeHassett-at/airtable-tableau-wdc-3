@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Basic Auth Sample Connector</title>
+  <meta http-equiv="Cache-Control" content="no-store" />
+  <link rel="icon" href="data:,">
+  <link href="index.css" rel="stylesheet" />
+  <script src="index.ts" type="module" defer></script>
+</head>
+
+<body>
+  <p id="error" style="display: block; margin-top: 2em; height: 5px; text-align: center; color: red;"></p>
+
+  <div class="box m-auto ">
+    <div class="card">
+      <div class="card-header">
+        Basic Auth Sample Connector
+      </div>
+
+      <div class="card-body">
+        <label for="userName" class="form-label">User Name</label>
+        <input type="text" id="username" class="form-control mb-3" placeholder="User Name">
+
+        <label for="Password" class="form-label">Password</label>
+        <input type="password" id="password" class="form-control mb-4" placeholder="Password">
+
+        <div class=" text-center">
+          <button type="button" class="btn btn-success" id="submitButton" disabled>
+            Please wait while settings load...
+          </button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+
+</html>

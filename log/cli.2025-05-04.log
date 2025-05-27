@@ -1,0 +1,151 @@
+{"ts":"2025-05-04T16:52:37.092Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T16:52:37.093Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T16:52:37.093Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T16:52:38.089Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T16:52:38.364Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T16:52:38.364Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T16:52:38.364Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T16:52:38.364Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T16:52:38.364Z","pid":"13156","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T17:16:21.582Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:16:21.583Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:16:21.584Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:16:22.365Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:16:22.639Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T17:16:22.639Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T17:16:22.639Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T17:16:22.640Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T17:16:22.640Z","pid":"13878","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T17:21:35.766Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:21:35.768Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:21:35.769Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:21:36.549Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:21:37.113Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T17:21:37.114Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T17:21:37.114Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T17:21:37.114Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T17:21:37.114Z","pid":"14123","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T17:31:53.446Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:31:53.447Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:31:53.448Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:31:54.193Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:31:54.742Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T17:31:54.743Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T17:31:54.743Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T17:31:54.743Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T17:31:54.743Z","pid":"14797","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T17:33:08.570Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:33:08.571Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:33:08.571Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:33:09.239Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:33:09.820Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T17:33:09.820Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T17:33:09.820Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T17:33:09.821Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T17:33:09.821Z","pid":"14898","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T17:40:20.928Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:40:20.929Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:40:20.930Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:40:21.675Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:40:22.224Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T17:40:22.225Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T17:40:22.225Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T17:40:22.225Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T17:40:22.225Z","pid":"15244","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T17:45:37.797Z","pid":"15704","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:45:37.798Z","pid":"15704","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:45:37.799Z","pid":"15704","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:45:38.561Z","pid":"15704","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:45:38.793Z","pid":"15704","sev":"debug","sourceName":"CLI","v":"Failed to build connector/handlers"}
+{"ts":"2025-05-04T17:47:44.552Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:47:44.553Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:47:44.553Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:47:45.303Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:47:45.865Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T17:47:45.865Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T17:47:45.865Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T17:47:45.866Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T17:47:45.866Z","pid":"15854","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T17:52:04.207Z","pid":"16177","sev":"debug","sourceName":"CLI","v":"Cleaning connector build artifacts..."}
+{"ts":"2025-05-04T17:52:04.212Z","pid":"16177","sev":"debug","sourceName":"CLI","v":"Removed: /Users/joehassett/Documents/my-at2-wdc/dist, /Users/joehassett/Documents/my-at2-wdc/.eps, /Users/joehassett/Documents/my-at2-wdc/connector/.parcel-cache, /Users/joehassett/Documents/my-at2-wdc/connector/tmp"}
+{"ts":"2025-05-04T17:52:04.213Z","pid":"16177","sev":"debug","sourceName":"CLI","v":"Successfully cleaned connector build artifacts"}
+{"ts":"2025-05-04T17:52:28.042Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:52:28.043Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:52:28.043Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:52:28.763Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:52:29.410Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T17:52:29.410Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T17:52:29.410Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T17:52:29.410Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T17:52:29.411Z","pid":"16260","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T17:53:31.836Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T17:53:31.837Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T17:53:31.837Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:53:32.455Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T17:53:33.154Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T17:53:33.154Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T17:53:33.154Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T17:53:33.155Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T17:53:33.155Z","pid":"16351","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T22:27:34.703Z","pid":"20184","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T22:27:34.704Z","pid":"20184","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T22:27:34.705Z","pid":"20184","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:27:34.944Z","pid":"20184","sev":"debug","sourceName":"CLI","v":"Failed to build connector/app"}
+{"ts":"2025-05-04T22:28:49.726Z","pid":"20285","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T22:28:49.726Z","pid":"20285","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T22:28:49.727Z","pid":"20285","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:28:49.952Z","pid":"20285","sev":"debug","sourceName":"CLI","v":"Failed to build connector/app"}
+{"ts":"2025-05-04T22:29:44.783Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T22:29:44.784Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T22:29:44.784Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:29:45.560Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:29:45.829Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T22:29:45.829Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T22:29:45.829Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T22:29:45.830Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T22:29:45.830Z","pid":"20418","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T22:31:50.548Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T22:31:50.549Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T22:31:50.549Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:31:51.258Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:31:51.526Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T22:31:51.526Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T22:31:51.526Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T22:31:51.526Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T22:31:51.526Z","pid":"20646","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T22:39:28.090Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T22:39:28.091Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T22:39:28.092Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:39:28.824Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:39:29.103Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T22:39:29.103Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T22:39:29.103Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T22:39:29.104Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T22:39:29.104Z","pid":"21050","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T22:43:23.934Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T22:43:23.935Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T22:43:23.935Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:43:24.650Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:43:24.918Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T22:43:24.918Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T22:43:24.919Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T22:43:24.919Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T22:43:24.919Z","pid":"21293","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T22:54:58.285Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T22:54:58.287Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T22:54:58.287Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:54:59.015Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T22:54:59.286Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T22:54:59.286Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T22:54:59.286Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T22:54:59.286Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T22:54:59.286Z","pid":"21825","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-05-04T23:00:51.623Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-05-04T23:00:51.624Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-05-04T23:00:51.625Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T23:00:52.340Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: /Users/joehassett/Documents/my-at2-wdc/connector/node_modules/@tableau/taco-toolkit/node_modules/@parcel/config-default/index.json"}
+{"ts":"2025-05-04T23:00:52.609Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-05-04T23:00:52.609Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-05-04T23:00:52.609Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Copying /Users/joehassett/Documents/my-at2-wdc/connector/connector.json to /Users/joehassett/Documents/my-at2-wdc/dist/app/connector.json, /Users/joehassett/Documents/my-at2-wdc/dist/handlers/connector.json"}
+{"ts":"2025-05-04T23:00:52.610Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-05-04T23:00:52.610Z","pid":"22067","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Airtable Web Data Connector</title>
+  <meta http-equiv="Cache-Control" content="no-store">
+  <link rel="icon" href="data:,">
+  <link href="index.5196b8e4.css" rel="stylesheet">
+  <script src="index.836b3f15.js" defer=""></script>
+</head>
+
+<body>
+  <h1>Airtable - Tableau Web Data Connector</h1>
+  <p>The software made available through this page and its scripts are not supported by Formagrid Inc (Airtable) or part of the Airtable Service. It is made available on an "as is" basis and provided without express or implied warranties of any kind.</p>
+  <div class="box">
+    <div class="input-group">
+      <label for="baseId">Base ID:</label>
+      <input type="text" id="baseId" placeholder="Enter Airtable Base ID" required="">
+    </div>
+    <div class="input-group">
+      <label for="airtablePAT">Personal Access Token:</label>
+      <input type="password" id="airtablePAT" placeholder="Enter Airtable PAT" required="">
+    </div>
+    <div class="input-group">
+      <label for="tableName">Table Name:</label>
+      <input type="text" id="tableName" placeholder="Enter Table Name" required="">
+    </div>
+    <p>If you run into an error it is likely due to an incorrectly scoped/accessed <a href="https://airtable.com/create/tokens">PAT</a>. Please double check that your PAT has access to the base and the <code>data.records:read</code> scope.</p>
+    <button type="button" id="submitButton" disabled="">
+      Please wait while settings load...
+    </button>
+  </div>
+</body>
+</html>
